@@ -1,0 +1,201 @@
+﻿세계 10대 회사들의 자료들이 있음.
+출처:
+https://en.wikipedia.org/wiki/List_of_stock_exchanges
+https://en.wikipedia.org/wiki/Category:Companies_by_stock_exchange
+
+
+========================================================
+1- New York Stock Exchange, United States
+About 2,400 listed companies
+
+회사에 상장된 기업소개 웹사이트주소들이 있음/ 하단에 보면 다음 페지로 이행하는 링크가 있음.
+https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_New_York_Stock_Exchange&pageuntil=Brady+Corporation#mw-pages
+
+상장회사의 현황자료들
+회사의 등록이름별로 링크가 달려있음.
+https://www.advfn.com/nyse/newyorkstockexchange.asp?companies=A
+
+
+==================================================
+2- NASDAQ, United States (상장기업사이트 못찾음)
+
+회사에 상장된 기업소개 웹사이트주소들이 있음/ 하단에 보면 다음 페지로 이행하는 링크가 있음.
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_NASDAQ
+2018.8.3
+
+회사의 현황자료들
+https://www.advfn.com/nasdaq/nasdaq.asp
+회사의 현황자료들
+
+
+==================================================
+3- Tokyo Stock Exchange, Japan(잘 나오지 않음)
+It has close to 2,300 listed companies 
+
+회사에 상장된 기업소개 웹사이트주소들이 있음/ 하단에 보면 다음 페지로 이행하는 링크가 있음.
+일본어가 더 상세함.
+https://ja.wikipedia.org/wiki/Category:%E6%9D%B1%E8%A8%BC%E4%B8%80%E9%83%A8%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD
+아래의 링크는 영문
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Tokyo_Stock_Exchange
+2016.7.16 updated
+
+
+상장기업들의 현황자료((잘 나오지 않음))
+https://www.jpx.co.jp/english/equities/products/tpm/issues/index.html
+Japan exchange group 에서 새로 상장된 회사정보 몇개 있음, 웹사이트 없음
+
+https://www.jpx.co.jp/english/equities/products/tpm/issues/index.html
+https://www.jpx.co.jp/english/listing/stocks/index.html
+
+명칭이 바뀐 상장회사들의 자료가 있음(많지 않음)
+https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=ja&sp=nmt4&tl=en&u=https://www.jpx.co.jp/listing/others/changed/tvdivq0000001hyn-att/tvdivq000000twmr.xlsx&xid=17259,1500003,15700019,15700186,15700191,15700256,15700259,15700262,15700265,15700271&usg=ALkJrhgvIUtv-R_WAXf1CivJ0P_e1MXqCg
+
+
+============================================================
+4- Shanghai Stock Exchange, China (잘 나오지 않음, 사이트주소들이)
+has more than 1,000 listed companies.
+
+회사에 상장된 기업소개 웹사이트주소들이 있음/ 우선 SSE 50은 Top50개 기업,CSI 100으로 갈라짐
+ 
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Shanghai_Stock_Exchange
+그 아래에 SSE 50과 CSI 100이 있는데 회사들이 많이 겹침.
+
+여기서 기발한 생각은 중문으로 들어가서 보면/ 다음 페지로 이행하는 링크페지가 현시됨.
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Shanghai_Stock_Exchange 에서 중문을 선택
+https://zh.wikipedia.org/wiki/Category:%E4%B8%8A%E6%B5%B7%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8
+
+
+2018.8.12 updated
+
+상장회사의 현황자료들
+http://2016en.sse.com.cn/listed/company/
+
+
+===============================================
+5- Hong Kong Stock Exchange, Hong Kong
+It has close to 2,000 listed companies,
+
+회사에 상장된 기업소개 웹사이트주소들이 있음/ 다음 페지를 누르면 나옴.(더 좋기는 중어로 할것)
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Hong_Kong_Stock_Exchange
+2017.11.20
+중문, 상세함(주소들)
+https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%97%E8%A1%A8
+여기서 임의의 회사링크를 눌러 들어가서 하단에 중문으로 連結(중어로 링크라는소리) 이곳아래있는 링크가 회사링크임. 1,838개 회사사이트가 있음.
+
+
+상장회사(上市公司列表)의 현황자료들
+https://www.hkex.com.hk/Market-Data/Futures-and-Options-Prices/Single-Stock/All?sc_lang=en#&sttype=all 
+Excel 다운받은것 있음.
+
+=====================================================
+6- Euronext, Eurozone
+
+It has approximately 1,300 listed companies
+
+회사에 상장된 기업소개 웹사이트주소들이 있음
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Euronext_exchanges
+2019.6.18
+
+시장지역이 6개로 나뉘어져있음(오슬로,더블린,암스테르담,빠리,브류셀,리스봉,)
+
+오슬로에 상장된 기업들의 사이트목록(Oslo)
+https://en.wikipedia.org/wiki/List_of_companies_listed_on_the_Oslo_Stock_Exchange
+
+회사목록들의 Excel 파일 다운받음.
+더블린에 상장된 기업들의 사이트목록(Dublin)
+https://en.wikipedia.org/wiki/List_of_companies_listed_on_Euronext_Dublin
+https://live.euronext.com/en/markets/dublin 여기서 more detail에 가서 상황분석
+
+Amsterdam
+https://en.wikipedia.org/wiki/Euronext_Amsterdam
+https://live.euronext.com/en/markets/amsterdam 여기서 more detail에 가서 상황분석.
+
+Paris
+https://en.wikipedia.org/wiki/Euronext_Paris
+https://live.euronext.com/en/markets/paris 여기서 more detail에 가서 상황분석
+
+brussel
+https://en.wikipedia.org/wiki/BEL_20
+https://live.euronext.com/en/markets/brussels 여기에서 가서 상황분석
+
+Lisbon
+https://live.euronext.com/en/markets/lisbon 여기서 more detail에 가서 상황분석
+
+
+유로넥스트에 등록된 전체 상장회사의 현황자료들
+https://live.euronext.com/products/equities/list
+Excel 다운받은것 있음.
+
+
+================================================
+7- London Stock Exchange, United Kingdom
+It has more than 3,000 listed companies 
+
+회사에 상장된 기업소개 웹사이트주소들이 있음.
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_London_Stock_Exchange
+이 사이트에는 350개의 기업자료만 있음.
+
+
+https://www.londonstockexchange.com/exchange/prices-and-markets/stocks/indices/summary/summary-indices-constituents.html?index=ASX
+
+
+여기서 중요시할것은 
+FTSE 100 Index; 영국 잡지 파이낸셜이 선출한 100개 상장기업목록이고
+https://en.wikipedia.org/wiki/FTSE_100_Index
+FTSE 250 Index; 101~ 이후의 기업들을 의미함
+https://en.wikipedia.org/wiki/FTSE_250_Index
+https://en.wikipedia.org/wiki/FTSE_SmallCap_Index
+The FTSE SmallCap Index is an index of small market capitalisation companies consisting of the 351st to the 619th largest-listed companies on the London Stock Exchange main market.
+
+
+
+2017.5.9
+
+상장회사의 현황자료들
+https://www.londonstockexchange.com/exchange/prices-and-markets/stocks/main-market/main-market.html
+Excel 다운받은것 있음.
+
+
+=================================================
+8- Shenzhen Stock Exchange, China
+
+회사에 상장된 기업소개 웹사이트주소들이 있음
+https://en.wikipedia.org/wiki/List_of_companies_listed_on_the_Shenzhen_Stock_Exchange
+2019.10.12
+
+중문이 더 정확하지만 기업사이트주소들이 없음
+https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%9C%B3%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%97%E8%A1%A8
+
+
+http://www.szse.cn/English/siteMarketData/siteMarketDatas/stocks/index.html
+상장회사들의 현황자료
+Excel 다운받은것 있음.
+
+
+
+9- Toronto Stock Exchange, Canada (사이트자료 미약함)
+has 2,207 listed companies
+
+회사에 상장된 기업소개 웹사이트주소들이 있음/ 하단에 보면 다음 페지로 이행하는 링크가 있음.
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Toronto_Stock_Exchange
+2018.12.7
+
+상장회사들의 현황자료(A-Z를 수동으로 찾아야 함)
+https://www.tsx.com/listings/listing-with-us/listed-company-directory
+
+
+
+10- Bombay Stock Exchange, India
+the BSE has 5,749 listed companies. 
+https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Bombay_Stock_Exchange
+2019.10.4
+
+
+상장회사들의 현황자료
+http://www.marketonmobile.com/search.php
+https://money.rediff.com/companies
+
+아래의 사이트는 홈페지인데 아직 분석이 충분하지 못함
+https://www.bseindia.com/corporates/direct_list.aspx
+이 사이트에는 414개 회사가 링크있음. 회사정보에 대한 pdf만 있음.
+
